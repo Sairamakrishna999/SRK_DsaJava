@@ -17,7 +17,7 @@ Sample Input 2 :
 Sample Output 2 :
 1
 */
-package Milestone3;
+package Milestone3.Recursion1;
 
 public class NoOfDigits {
 

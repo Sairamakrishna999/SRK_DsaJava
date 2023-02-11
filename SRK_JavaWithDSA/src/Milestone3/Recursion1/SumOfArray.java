@@ -9,7 +9,7 @@ Sample Input 2 :
 Sample Output 2 :
 7    
 */
-package Milestone3;
+package Milestone3.Recursion1;
 
 public class SumOfArray {	    
 		public static int sum(int input[]) {

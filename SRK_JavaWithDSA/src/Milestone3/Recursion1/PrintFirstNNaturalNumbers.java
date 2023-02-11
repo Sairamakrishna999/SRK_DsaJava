@@ -17,7 +17,7 @@ Sample Input 2 :
 Sample Output 2 :
 1 2 3 4
 */
-package Milestone3;
+package Milestone3.Recursion1;
 
 public class PrintFirstNNaturalNumbers {
 		public static void print(int n){
